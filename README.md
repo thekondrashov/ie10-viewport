@@ -14,6 +14,5 @@ For more information and usage guidelines, read:
 
 License
 ===========
-Copyright 2014 Twitter, Inc.
-Licensed under the Creative Commons Attribution 3.0 Unported License.
-For details, see http://creativecommons.org/licenses/by/3.0/
+Copyright 2014-2015 Twitter, Inc.
+Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
